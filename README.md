@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kdotgoat
 - 👀 Currently pursuing backend programming..
 - 🌱 Current languages in pursue c,c++,java,javascript,python,database(mysql),flutter and dart...
-- 💞️ I’m looking to collaborate on  projects..
+- 💞️ Great collaborator...
 - 📫 How to reach me wisem9086@gmail.com..
 
 <!---
