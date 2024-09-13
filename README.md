@@ -26,8 +26,6 @@
 ![Database](https://img.shields.io/badge/Database-003545?style=flat-square&logo=postgresql&logoColor=white)
 
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
+
 
 
