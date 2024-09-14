@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wisem9086@gmail.com)
 
 
-## Hi 👋, I'm Wise
+## Hi 👋, I'm Wise 
 
 
 ### 🛠️ Languages and Tools:
