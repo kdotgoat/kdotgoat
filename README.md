@@ -23,7 +23,9 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Database](https://img.shields.io/badge/Database-003545?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-003545?style=flat-square&logo=mysql&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-003545?style=flat-square&logo=visualstudio&logoColor=white)
+
 
 
 
