@@ -1,5 +1,4 @@
 # kdotgoat
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kdotgoat&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdotgoat&layout=compact&theme=dark)
 ### My email:
 
