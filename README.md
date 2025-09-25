@@ -2,8 +2,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdotgoat&layout=compact&theme=dark)
 ### My email:
 
-
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wisem9086@gmail.com)
 
 
